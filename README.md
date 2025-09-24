@@ -6,7 +6,7 @@ Bu repository, **Harfus** Türkçe Wordle oyunu için hazırlanmış gizlilik po
 
 ## 🌐 Canlı Site
 
-**🔗 Gizlilik Politikası:** [https://muharremosmantopakkaya.github.io/Index](https://muharremosmantopakkaya.github.io/Index)
+**🔗 Gizlilik Politikası:** [https://muharremosmantopakkaya/HarfusPrivacy](https://muharremosmantopakkaya.github.io/HarfusPrivacy/)
 
 ## 🎯 Harfus Nedir?
 
